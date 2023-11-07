@@ -39,3 +39,4 @@ build/
 junit-jupiter-api-5.9.1.jar
 junit-jupiter-params-5.9.1.jar
 junit-platform-commons-1.9.1.jar
+assertj-core-3.23.1.jar
