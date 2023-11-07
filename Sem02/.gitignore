@@ -36,3 +36,5 @@ build/
 
 ### Mac OS ###
 .DS_Store
+/lib/byte-buddy-1.12.21.jar
+/lib/assertj-core-3.24.2.jar
