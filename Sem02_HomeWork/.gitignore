@@ -35,4 +35,7 @@ build/
 .vscode/
 
 ### Mac OS ###
-.DS_Store
+.DS_Storeassertj-core-3.23.1.jar
+junit-jupiter-api-5.9.1.jar
+junit-jupiter-params-5.9.1.jar
+junit-platform-commons-1.9.1.jar
