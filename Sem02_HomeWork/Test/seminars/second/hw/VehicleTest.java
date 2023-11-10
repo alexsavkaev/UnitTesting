@@ -7,7 +7,9 @@ import org.junit.jupiter.api.Test;
 
 
 import static org.junit.Assert.assertThat;
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertInstanceOf;
+
 
 class VehicleTest {
     Car bmw = new Car("BMW", "X5", 2021);
